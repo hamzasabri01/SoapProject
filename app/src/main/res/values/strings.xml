@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SoapApp</string>
+    <string-array name="country_codes">
+        <item>MA</item>
+        <item>FR</item>
+        <item>USA</item>
+        <item>CA</item>
+    </string-array>
+</resources>
